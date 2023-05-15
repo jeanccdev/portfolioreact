@@ -21,13 +21,6 @@ const Projects = () =>{
                   <h4>JavaScript, PHP e MySQL</h4>
               </a>
           </div>
-          <div className="projetos">
-              <a href="http://18.228.45.141/">
-                  <h4>Jaqueline Cristóvão</h4>
-                  <img src={jaquelinePreview} alt="Jaqueline Cristóvão" />
-                  <h4>JavaScript, PHP e MySQL</h4>
-              </a>
-          </div>
       </section>
     </div>
   );
